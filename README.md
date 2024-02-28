@@ -22,4 +22,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-I made this project in order to practice API usage and to try and play around with Google's Gemini API
+I made this project in order to practice API usage and to try and play around with Google's Gemini API and OpenAI's API and compare the responses of the two models
+![Screenshot 2024-02-28 at 2 53 32 PM](https://github.com/Josh1794/ai-api-test/assets/46975990/1fc81ac1-d952-468e-9e52-5e92ba7550ea)
